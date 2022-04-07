@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moharu/beetles"
+    "url": "https://github.com/HereITBrasil/beetles"
   },
   "config": {
     "blanket": {
@@ -27,12 +27,12 @@
     "beatles",
     "beetles"
   ],
-  "author": "João Teló <Moharu>",
+  "author": "HereITBrasil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Moharu/beetles/issues"
+    "url": "https://github.com/HereITBrasil/beetles/issues"
   },
-  "homepage": "https://github.com/Moharu/beetles",
+  "homepage": "https://github.com/HereITBrasil/beetles",
   "devDependencies": {
     "blanket": "^1.2.2",
     "expect.js": "^0.3.1",
